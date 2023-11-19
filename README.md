@@ -12,3 +12,9 @@ Let's GO
 
 # 2023-11-18
 - "Keep it simple, stupid!"
+
+# 2023-11-19
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Before starting a new project or undertaking a task, take the time to plan out your approach. Think about the different aspects of the problem and how you will approach them. Creating a plan will also help to keep you organized and on track. You can use tools like Trello or Asana to help with task management and organization. 
+ -- 211个词
