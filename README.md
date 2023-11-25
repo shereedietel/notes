@@ -37,3 +37,10 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the ongoing challenge for programmers to create robust and user-friendly software, while also acknowledging that there will always be unforeseen ways in which users may interact with or misuse a program. It serves as a reminder to continually test, improve, and adapt our code to anticipate and accommodate potential issues.
+
+# 2023-11-25
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest industry trends, tools, and programming languages.
+
+To be successful as a programmer, you should also focus on building a solid foundation in core programming concepts. By understanding the principles of algorithms, data structures, computer architecture, etc., You will be able to better adapt to new challenges and develop innovative solutions. Practice makes perfect, so keep coding and trying out new projects to improve your skills and knowledge. 
+ - 学习编程语言和技术。
+-掌握基本编程概念，如算法、数据结构、计算机架构等。-不断实践，提高编程技能。
