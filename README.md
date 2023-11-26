@@ -44,3 +44,6 @@ This quote highlights the ongoing challenge for programmers to create robust and
 To be successful as a programmer, you should also focus on building a solid foundation in core programming concepts. By understanding the principles of algorithms, data structures, computer architecture, etc., You will be able to better adapt to new challenges and develop innovative solutions. Practice makes perfect, so keep coding and trying out new projects to improve your skills and knowledge. 
  - 学习编程语言和技术。
 -掌握基本编程概念，如算法、数据结构、计算机架构等。-不断实践，提高编程技能。
+
+# 2023-11-26
+- "Keep it simple, stupid!"
