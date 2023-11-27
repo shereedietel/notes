@@ -47,3 +47,10 @@ To be successful as a programmer, you should also focus on building a solid foun
 
 # 2023-11-26
 - "Keep it simple, stupid!"
+
+# 2023-11-27
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your work, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the project down into smaller, manageable pieces, assign deadlines, then start working on each piece in order. Planning ahead will prevent you from getting lost in the code or becoming overwhelmed by the scope of the task. It will also help to ensure a smoother and more enjoyable coding experience. 
+ --
+ Lastly, staying organized is essential. Use version control systems like Git to keep track of your code and collaborate with others. Organize your project folders and files neatly and logically. Document your codes and explain your thought process so that others can understand and contribute to your projects. Maintaining a clean and organized workspace will save you time and frustration in troubleshooting and maintaining your cod
