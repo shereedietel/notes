@@ -66,3 +66,10 @@ Second, planning ahead is crucial. Before starting a new project or undertaking 
 
 # 2023-12-01
 - Today's programming wisdom is to always strive for simplicity and clarity in your code. Avoid unnecessary complexity and try to make your code easy to understand and maintainable. Remember that code is read far more often than it is written, so write it with the reader in mind. Additionally, embrace automation and use tools like version control, testing frameworks, and linters to improve your productivity and catch errors early on. Finally, never stop learning and stay up-to-date with the latest developments in your field.
+
+# 2023-12-02
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and not get sidetracked by less significant details. Use a task management tool, such as Trello or Asana, to keep track of your priorities and make sure you stay on track. 
+ 2. Plan ahead: Planning is crucial when it comes to programming. Before starting a new project or undertaking a large task, take the time to plan out your approach. Create a detailed plan that includes the steps you need to take, the resources you will need,and the timeline for completion.This will ensurethat you have a clear roadmap for success and can avoid getting lost in the details along the way.  
+3. Stay organized: As a programmer, maintaining a clean and organized workspace is vital to your productivity. Keep your code, project files, documentation, tools, etc. in order and easily accessible. Using version control systems, like Git, can also help with organization and collaboration. Additionally, organizing your thoughts and ideas in a well-structured and concise manner will make it easier for you and others to understand and maintain your work.
