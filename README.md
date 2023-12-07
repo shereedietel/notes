@@ -87,3 +87,10 @@ Focus on writing clean, readable, and maintainable code first. Optimize only whe
 
 # 2023-12-06
 - "Keep it simple, stupid!"
+
+# 2023-12-07
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
+
+Another important aspect of programming wise is problem-solving skills. When faced with a challenging problem, take a step back, break it down into smaller, more manageable tasks, then apply critical thinking and creativity to find a solution. Practice debugging and refactoring code, which will improve your problem solving abilities and make you a better programmer. 
+ 学习新技能，如版本控制、测试和持续集成，这些都将有助于提高你的工作效率和代码质量。同时，学会与团队合作，倾听他人的意见，并在团队中分享你的知识和经验。这将有助于建立良好的团队氛围，提高整个团队的效率。
+最后，保持耐心和毅力。编程是一个不断学习和成长的过程，需要时间和努力。遇到困难时，不要轻易放弃，而是坚持下去，相信自己的能力，最终你会取得成功。
