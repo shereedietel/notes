@@ -113,3 +113,8 @@ Next, planning ahead is crucial. Before beginning a new project or a difficult c
 
 # 2023-12-11
 - "Keep it simple, stupid!"
+
+# 2023-12-12
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to overly complex and hard-to-maintain software. It's better to write clean, simple code first and optimize only when profiling identifies performance bottlenecks.
