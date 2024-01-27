@@ -321,3 +321,10 @@ Additionally, "Optimize for readability and write code that documents itself. Us
 
 Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Having a clear plan will keep you focused and help avoid getting lost in the details. It will also make it easier to track your progress and adjust your schedule as needed. 
  - 来自n.p.m.
+
+# 2024-01-27
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By identifying which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
+ ---
+ Second, wisely plan you time .When you plan, make Sure to allow enough time for each task. If you find yourself running out of time, it' s usually because you didn' t plan well enough. Break down larger tasks into smaller, more manageable pieces, so that they' re easier to complete in a timely manner. Also, don't forget to schedule breaks and downtime into your plan. Your brain and body will thank you for it.
