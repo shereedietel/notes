@@ -328,3 +328,6 @@ Second, always plan beforehand. When starting a new project or working on a comp
 First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By identifying which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
  ---
  Second, wisely plan you time .When you plan, make Sure to allow enough time for each task. If you find yourself running out of time, it' s usually because you didn' t plan well enough. Break down larger tasks into smaller, more manageable pieces, so that they' re easier to complete in a timely manner. Also, don't forget to schedule breaks and downtime into your plan. Your brain and body will thank you for it.
+
+# 2024-01-28
+- "Keep it simple, stupid!"
