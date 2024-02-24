@@ -437,3 +437,15 @@ In essence, this quote emphasizes that striving to optimize code too early in th
 
 # 2024-02-23
 - "Keep it simple, stupid!"
+
+# 2024-02-24
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function, method, class, module, etc. names that accurately reflect their purpose and functionality.
+2. Organize your code into logical, modular blocks that follow the Single Responsibility Principle (SRP) and the Open/Closed Principal (OCP), making it easier to understand and modify. 
+3. Write concise and readable comments that explain the purpose, logic, assumptions, constraints, edge cases, dependencies, potential pitfalls, or anything else that may not be immediately obvious to someone reading your Code. These comments should be written in a way that is both human- and machine-readable.  
+4. Follow coding conventions and style guidelines that are specific to the programming language, framework, library, tool, platform, environment, team, company, organization, community, industry, country, continent, galaxy, universe, multiverse, omniverse you are working with. If there are no established conventions or guidelines, create your own that align with best practice and common sense.   
+5. Avoid duplicating code and instead use functions, methods, classes, modules, libraries, tools, frameworks, platforms, environments, abstractions, components, patterns, best-practices, heuristics, algorithms, data structures, software design patterns to abstract and reuse code.    
+6. Refactor your existing code regularly to improve its structure, efficiency, performance, security, reliability, maintainable, extensible, testable and/or deployable qualities. Always ask yourself if there is a better, cleaner, faster, safer, more reliable, easier, cheaper, greener, prettier, smarter, kinder, gentler, humbler way to do something.     
+7. Test your software thoroughly and consistently using unit tests, integration tests and end- to-end tests to ensure that it works as intended and does not have any bugs, errors, defects, vulnerabilities, inconsistencies, anomalies, exceptions, side effects, race conditions, deadlocks, hangs, crashes, freezes, leaks, memory bloat, resource exhaustion, timeouts, denial of service, stability, portability, interoperability or security issues.      
+8. Continuously learn, grow, adapt, improve, evolve, expand, innovate, experiment, explore, discover, master, understand, communicate, collaborate, share, teach, mentor, lead, manage, organize, plan, design, develop, implement, integrate, configure, document, debug, profile, optimize, monitor, maintenance, support, backup, restore, secure, version control, release management, deployment, infrastructure, architecture, development process, workflow, workflows, work flow, agile, scrum, kanban, lean, waterfall, mix methods and everything else related to software development and technology.
